@@ -5,10 +5,12 @@
 This package contains all the low-level drivers necessrary to control all the bespoke labware used by CVLab
 
 ## Features
-- AI Scientist
-- rEasype
-- Teachpendant
-- Workflow manager
+- Carousels
+- pHmeter
+- Pipette
+- PLC
+- Polisher
+- Peristaltic pumps
 ## Quick start
 1. Use Arduino IDE to load the drivers in Arduino UNO 4rev wi-fi
 1. For the PLC use an Arduino Opta PLC with a mechanical switches extension.
